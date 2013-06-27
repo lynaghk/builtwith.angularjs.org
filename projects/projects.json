@@ -2,6 +2,21 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "The Weathertron",
+      "thumb": "weathertron/thumb.png",
+      "desc": "A data-visualization rich weather app for iOS and Android. Built with about 1200 lines of ClojureScript on top of Angular.js.",
+      "url": "http://theweathertron.com",
+      "info": "http://keminglabs.com/blog/angular-cljs-weather-app/",
+      "submitter": "lynaghk",
+      "submissionDate": "2013-06-27",
+      "tags": [
+        "Production",
+        "Mobile",
+        "Animations", "Geolocation", "Local Storage", "Closure Adv. Optimizations", "ClojureScript",
+        "iOS", "Android"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
